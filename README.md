@@ -1,7 +1,13 @@
 # Fireworks KYC PoV
 
+![CleanShot 2024-12-18 at 18 03 48@2x](https://github.com/user-attachments/assets/9db90b54-52fb-4ea0-8192-9405bea7e207)
+
+
+![CleanShot 2024-12-18 at 18 04 01@2x](https://github.com/user-attachments/assets/62fc9c54-1be2-4ae4-9a9c-ece4e22fe439)
+
 ## Demo
-You can test this live at withwell.com/kyc
+
+You can test this live at [withwell.com/fireworks](https://withwell.com/fireworks)
 
 ## Frontend
 Built with React, Next.js, Tailwind, and Shadcn. Deployed on Vercel. 
